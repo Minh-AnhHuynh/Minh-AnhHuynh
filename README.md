@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Minh-AnhHuynh
 - 👀 I’m interested in Systems Immunology and data science.
 - 🌱 I’m currently learning to do data science on R.
-- 🛠️ I'm taking courses in R shiny, Python and Julia to expand my knowledge of data science on datacamp.
+- 🛠️ I'm taking courses in R shiny, Python to expand my knowledge of data science on datacamp.
 - 💞️ I’m looking to collaborate on Immunology and Data analysis.
 - 📫 How to reach me : minh-anh.huynh@etu.u-paris.fr
 
